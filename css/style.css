@@ -638,3 +638,9 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+
+@media (max-width:600px) {
+    .jumbo-img{
+        display:none
+    }
+}
